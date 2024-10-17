@@ -59,7 +59,8 @@ namespace DoAn
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Register_Interface
+            Form frm2 = new Register_Interface();
+            frm2.ShowDialog();
         }
     }
 }
