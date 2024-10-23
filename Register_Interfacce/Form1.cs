@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Register_Interfacce
 {
-    public partial class Form1 : Form
+    public partial class Register_Interface : Form
     {
-        public Form1()
+        public Register_Interface()
         {
             InitializeComponent();
+        }
+
+        private void Register_Interface_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

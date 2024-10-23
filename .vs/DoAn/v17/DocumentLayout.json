@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46F0F8DD-58B6-49AC-A505-EC8344D420B8}|API_ASP\\API_ASP.csproj|c:\\users\\acer\\source\\repos\\doan\\api_asp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F0F8DD-58B6-49AC-A505-EC8344D420B8}|API_ASP\\API_ASP.csproj|solutionrelative:api_asp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F0F8DD-58B6-49AC-A505-EC8344D420B8}|API_ASP\\API_ASP.csproj|c:\\users\\acer\\source\\repos\\doan\\api_asp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F0F8DD-58B6-49AC-A505-EC8344D420B8}|API_ASP\\API_ASP.csproj|solutionrelative:api_asp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50871028-AFE2-4707-AFFC-126FCF526F30}|My_Class\\MYEntity.csproj|c:\\users\\acer\\source\\repos\\doan\\my_class\\user_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50871028-AFE2-4707-AFFC-126FCF526F30}|My_Class\\MYEntity.csproj|solutionrelative:my_class\\user_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|My_Entity||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\register_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\register_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\register_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\register_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\login_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\login_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DoAn||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\login_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\login_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|c:\\users\\acer\\source\\repos\\doan\\doan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\register_interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\register_interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\login_interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\login_interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|C:\\Users\\acer\\source\\repos\\DoAn\\doan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|solutionrelative:doan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B2C851-8D5B-4354-B3EE-5A36E61B1446}|DoAn\\DoAn.csproj|c:\\users\\acer\\source\\repos\\doan\\doan\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50871028-AFE2-4707-AFFC-126FCF526F30}|My_Class\\MYEntity.csproj|c:\\users\\acer\\source\\repos\\doan\\my_class\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\API_ASP\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "API_ASP\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\API_ASP\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "API_ASP\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:30:51.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "My_Entity",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\My_Class\\My_Entity.csproj",
+              "RelativeDocumentMoniker": "My_Class\\My_Entity.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\My_Class\\My_Entity.csproj",
+              "RelativeToolTip": "My_Class\\My_Entity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-23T08:27:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_Model.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\My_Class\\User_Model.cs",
+              "RelativeDocumentMoniker": "My_Class\\User_Model.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\My_Class\\User_Model.cs",
+              "RelativeToolTip": "My_Class\\User_Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:25:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\packages.config",
+              "RelativeDocumentMoniker": "DoAn\\packages.config",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\packages.config",
+              "RelativeToolTip": "DoAn\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T07:16:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\API_ASP\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "API_ASP\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\API_ASP\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "API_ASP\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:39:47.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register_Interface.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Register_Interface.Designer.cs",
+              "RelativeDocumentMoniker": "DoAn\\Register_Interface.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Register_Interface.Designer.cs",
+              "RelativeToolTip": "DoAn\\Register_Interface.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:07:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Register_Interface.cs",
+              "RelativeDocumentMoniker": "DoAn\\Register_Interface.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Register_Interface.cs",
+              "RelativeToolTip": "DoAn\\Register_Interface.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:05:29.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoAn",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\DoAn.csproj",
+              "RelativeDocumentMoniker": "DoAn\\DoAn.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\DoAn.csproj",
+              "RelativeToolTip": "DoAn\\DoAn.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T14:51:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Register_Interface.cs",
+              "RelativeDocumentMoniker": "DoAn\\Register_Interface.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Register_Interface.cs [Design]",
+              "RelativeToolTip": "DoAn\\Register_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:40:28.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Program.cs",
+              "RelativeDocumentMoniker": "DoAn\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Program.cs",
+              "RelativeToolTip": "DoAn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:33:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login_Interface.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Login_Interface.Designer.cs",
+              "RelativeDocumentMoniker": "DoAn\\Login_Interface.Designer.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Login_Interface.Designer.cs",
+              "RelativeToolTip": "DoAn\\Login_Interface.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAMwEEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:33:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Login_Interface.cs",
+              "RelativeDocumentMoniker": "DoAn\\Login_Interface.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Login_Interface.cs",
+              "RelativeToolTip": "DoAn\\Login_Interface.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:59:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login_Interface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Login_Interface.cs",
+              "RelativeDocumentMoniker": "DoAn\\Login_Interface.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DoAn\\DoAn\\Login_Interface.cs [Design]",
+              "RelativeToolTip": "DoAn\\Login_Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:55:04.683Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

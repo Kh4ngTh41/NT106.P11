@@ -16,7 +16,7 @@ namespace Register_Interfacce
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Register_Interface());
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\DoAn\MyEntity\bin\Debug\net8.0\MyEntity.deps.json
+C:\Users\acer\source\repos\DoAn\MyEntity\bin\Debug\net8.0\MyEntity.dll
+C:\Users\acer\source\repos\DoAn\MyEntity\bin\Debug\net8.0\MyEntity.pdb
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.AssemblyInfo.cs
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.sourcelink.json
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.dll
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\refint\MyEntity.dll
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\MyEntity.pdb
+C:\Users\acer\source\repos\DoAn\MyEntity\obj\Debug\net8.0\ref\MyEntity.dll
